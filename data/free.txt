@@ -263,6 +263,7 @@ alfamailr.org
 algeria.com
 alhilal.net
 alibaba.com
+alice.de
 alice.it
 aliceadsl.fr
 alicedsl.de
@@ -348,6 +349,7 @@ anytimenow.com
 anywhere.pw
 aol.co.uk
 aol.com
+aol.de
 aol.fr
 aol.it
 aon.at
@@ -579,6 +581,7 @@ biosor.cf
 birdlover.com
 birdowner.net
 bisons.com
+bitel.net
 bitmail.com
 bitnisse.dk
 bitpage.net
@@ -1068,6 +1071,7 @@ darknode.org
 daryxfox.net
 dash-pads.com
 data54.com
+datacomm.ch
 daum.net
 davegracey.com
 davidkoh.net
@@ -1087,6 +1091,7 @@ deal-maker.com
 dealrek.com
 dearriba.com
 death-star.com
+debitel.net
 defomail.com
 dejanews.com
 delayload.com
@@ -1361,6 +1366,7 @@ england.edu
 englandmail.com
 enjoy.email.ne.jp
 enter.net
+enviatel.net
 eonmech.com
 epage.ru
 epatra.com
@@ -1402,6 +1408,8 @@ every1.net
 everyday.com.kh
 everymail.net
 everyone.net
+ewe.net
+ewetel.net
 examnotes.net
 example.com
 excite.co.jp
@@ -1463,6 +1471,7 @@ fastmail.com
 fastmail.com.au
 fastmail.es
 fastmail.fm
+fastmail.fr
 fastmail.im
 fastmail.in
 fastmail.jp
@@ -1614,6 +1623,7 @@ freesistercam.com
 freesistervids.com
 freestamp.com
 freestart.hu
+freesurf.ch
 freesurf.fr
 freesurf.nl
 freeteenbums.com
@@ -1817,6 +1827,7 @@ gmail.co.uk
 gmail.com
 gmail.com.br
 gmail.com.com
+gmail.fr
 gmail.gr.com
 gmail.it
 gmail.om
@@ -1863,6 +1874,7 @@ goodjab.club
 goodnewsmail.com
 goodstick.com
 googdad.tk
+google.com
 googlegroups.com
 googlemail.com
 goooogle.flu.cc
@@ -1975,6 +1987,7 @@ hecat.es
 heerschap.com
 heesun.net
 hehe.com
+helimail.de
 hello.hu
 hello.net.au
 hello.to
@@ -2009,6 +2022,7 @@ hiphopfan.com
 hippie.dk
 hiru-dea.com
 hispavista.com
+hispeed.ch
 hitmail.com
 hitthe.net
 hkg.net
@@ -2095,6 +2109,7 @@ hsbc.coms.hk
 hsuchi.net
 ht.cx
 html.tou.com
+htp-tel.de
 hu2.ru
 huajiachem.cn
 hughes.net
@@ -2150,6 +2165,7 @@ ich-bin-verrueckt-nach-dir.de
 ich-will-net.de
 ichimail.com
 icloud.com
+icloud.fr
 icmsconsultants.com
 icq.com
 icqmail.com
@@ -4453,6 +4469,7 @@ netc.lu
 netc.pl
 netcenter-vn.net
 netcmail.com
+netcologne.de
 netcom.ca
 netcom.com
 netcourrier.com
@@ -4469,6 +4486,7 @@ netmongol.com
 netnet.com.sg
 netnoir.net
 netpiper.com
+netplus.ch
 netposta.net
 netradiomail.com
 netralink.com
@@ -4630,6 +4648,7 @@ onet.pl
 oninet.pt
 onlatedotcom.info
 online.de
+online.fr
 online.ie
 online.nl
 online.no
@@ -4664,6 +4683,7 @@ orgmbx.cc
 oroki.de
 orthodontist.net
 osite.com.br
+osnanet.de
 oso.com
 otakumail.com
 otherinbox.codupmyspace.com
@@ -4744,6 +4764,7 @@ passwordmail.com
 pathfindermail.com
 patmedia.net
 pc1520.com
+pcconnect.de
 pconnections.net
 pcpostal.com
 pcsrock.com
@@ -4965,6 +4986,7 @@ prontomail.compopulus.net
 protestant.com
 protonmail.ch
 protonmail.com
+protonmail.fr
 proxyparking.com
 prs7.xyz
 prydirect.info
@@ -5552,6 +5574,7 @@ swirve.com
 swissinfo.org
 swissmail.com
 swissmail.net
+swissonline.ch
 switchboardmail.com
 switzerland.org
 swva.net
@@ -5616,6 +5639,7 @@ telecomix.pl
 telefonica.net
 teleline.es
 telenet.be
+teleos-web.de
 telepac.pt
 telerymd.com
 teleserve.dynip.com
@@ -5995,6 +6019,7 @@ verdejo.com
 verizon.net
 verizonmail.com
 verlass-mich-nicht.de
+versanet.de
 versatel.nl
 veryfast.biz
 veryspeedy.net
@@ -6058,6 +6083,8 @@ vmailing.info
 vncoders.net
 vnet.citiz.net
 vnn.vn
+vodafone.de
+vodafone.fr
 vodafone.nl
 vodafonethuis.nl
 voidbay.com
@@ -6081,6 +6108,7 @@ vpn.st
 vr9.com
 vrmtr.com
 vrsim.ir
+vtxmail.ch
 vuemail.com
 vztc.com
 w3.to
@@ -6485,6 +6513,7 @@ zmail.info.tm
 zmail.ru
 zoetropes.org
 zoho.com
+zoho.fr
 zombie-hive.com
 zombo.flu.cc
 zombo.igg.biz
